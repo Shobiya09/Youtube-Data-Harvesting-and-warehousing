@@ -5,10 +5,10 @@ The task is to build a Streamlit app that permits users to analyze data from mul
 
 Technology Stack Used
 
-Python
-MySQL
-MongoDB
-Google Client Library
+    Python
+    MySQL
+    MongoDB
+    Google Client Library
 
 Approach
 
